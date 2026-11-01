@@ -2,7 +2,7 @@
 
 Applied Data Science & AI student at Zuyd University of Applied Sciences in Maastricht. I build data pipelines, dashboards and AI-powered apps, and I'm interested in where AI meets finance.
 
-🔎 **Looking for a full-time internship from September 2027** in data science, data engineering or applied AI.
+🔎 **Open to internships from September 2027** in data science, data engineering and applied AI.
 
 ## Featured projects
 
