@@ -12,6 +12,7 @@ Applied Data Science & AI student at Zuyd University of Applied Sciences in Maas
 | [GHG Emissions Dashboard](https://github.com/canakkus01/ghg-emissions-dashboard) | Interactive dashboard of UN greenhouse gas data for 43 countries, with filters, tooltips and click-through trend charts | Python, Flask, D3.js |
 | [Evolutionary Path Planner](https://github.com/canakkus01/evolutionary-path-planner) | Genetic algorithm written from scratch that evolves obstacle-avoiding paths for a delivery robot, with a parameter sensitivity study | Python, NumPy, Matplotlib |
 | [TripBudget AI](https://github.com/canakkus01/TripBudget) | Web app that plans a trip around your budget, using the Gemini API | React, TypeScript, Firebase, Gemini API |
+| [VR Classroom Digital Twin](https://github.com/canakkus01/vr-classroom-digital-twin) | VR replica of a real classroom with grabbable props, a day/night switch and a world-space control panel | Unity, C#, XR Interaction Toolkit |
 | [ADSAI Coursework](https://github.com/canakkus01/adsai-coursework) | Pac-Man and Sokoban solvers with breadth-first search, a Rubik's cube solver, graph algorithms, SVD and PCA | Python, NumPy |
 
 ## Team projects
