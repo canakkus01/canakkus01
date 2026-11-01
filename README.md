@@ -1,6 +1,6 @@
 # Hi, I'm Can 👋
 
-Applied Data Science & AI student at Zuyd University of Applied Sciences in Maastricht. I build data pipelines, dashboards and AI-powered apps, and I'm interested in where AI meets finance.
+Applied Data Science & AI student at Zuyd University of Applied Sciences in Maastricht. I build data pipelines, dashboards and AI-powered apps.
 
 🔎 **Open to internships from September 2027** in data science, data engineering and applied AI.
 
